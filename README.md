@@ -1,2 +1,5 @@
-# bamazon
-An Amazon-like storefront with MySQL
+# install dependencies
+npm install
+
+# run program
+npm start
